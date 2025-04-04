@@ -3,6 +3,9 @@
 <hr><br>
 <h1>系統架構</h1> 
 
+>![](https://github.com/sujamie/Personal-task-management-system/blob/main/%E4%BB%BB%E5%8B%99%E7%AE%A1%E7%90%86%E7%B3%BB%E7%B5%B1%E4%BB%8B%E9%9D%A2.png)
+>![](https://github.com/sujamie/Personal-task-management-system/blob/main/%E6%96%B0%E5%A2%9E%E4%BB%BB%E5%8B%99%E4%BB%8B%E9%9D%A2.png)
+>![](https://github.com/sujamie/Personal-task-management-system/blob/main/%E6%A8%99%E8%A8%98%E5%AE%8C%E6%88%90%E7%95%AB%E9%9D%A2.png)
 本系統包含以下主要部分：  
 
 資料庫連線模組：使用 pyodbc 連接 MSSQL 資料庫。  
