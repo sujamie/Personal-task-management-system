@@ -32,10 +32,10 @@ from datetime import datetime
 ``` python
 # MSSQL 資料庫設定
 DB_CONFIG = {
-    "server": "MSI",
-    "database": "TaskDB",
-    "username": "jamie",
-    "password": "jamie706891",
+    "server": "伺服器名稱",
+    "database": "資料庫名稱",
+    "username": "使用者名稱",
+    "password": "使用者密碼",
 }
 
 # 連線到資料庫
